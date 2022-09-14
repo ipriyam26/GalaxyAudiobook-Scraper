@@ -1,0 +1,9 @@
+{
+  "python.formatting.provider": "autopep8",
+  "cSpell.words": [
+    "goldenaudiobook",
+    "goldenaudiobooks",
+    "ipaudio",
+    "linkextractors"
+  ]
+}
